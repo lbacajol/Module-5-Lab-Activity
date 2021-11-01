@@ -1,5 +1,5 @@
 # Module-5-Lab-Activity
-ALl of this 5 projects do differen thtings for intance: 
+All of this 5 python projects do differen thtings for intance: 
 Project one prints Hello World 100 times
 Project two shows a list of numbers on separated lines and next to it a list of their square
 Project three asks the users to input number of sides, the length of the side, the color of the line, and the fill color of a regular polygon then it draws it and shows the users the drawing
